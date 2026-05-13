@@ -1,0 +1,11 @@
+{
+  "skills": [
+    {
+      "name": "grill-me",
+      "path": "skills/grill-me/SKILL.md"
+    }
+  ],
+  "agents": [],
+  "mcpServers": {},
+  "cliTools": []
+}
